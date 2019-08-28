@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author heze-
+ * @author VivianaM-
  */
 public class main {
 
